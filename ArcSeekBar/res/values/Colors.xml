@@ -1,0 +1,4 @@
+
+    <resources xmlns:android="http://schemas.android.com/apk/res/android">
+        <color android:layout_width="wrap_content" android:id="@+id/color1" android:layout_height="wrap_content" name="camera_pro_background">#990000</color>
+    </resources>
